@@ -3,7 +3,7 @@ var theme = {
         bookmark_text: "#eff0f1",
         
         button_background_active: "#3daee9",
-        button_background_hover: "#2e3b43",
+        button_background_hover: "#377292",
         icons: "#eff0f1",
         icons_attention: "#3daee9",
         
@@ -34,9 +34,9 @@ var theme = {
         tab_text: "#eff0f1",
         
         toolbar: "#31363b",
-        toolbar_bottom_separator: "#909396",
+        toolbar_bottom_separator: "#232629",
         toolbar_field: "#232629",
-        toolbar_field_border: "#909396",
+        toolbar_field_border: "#616569",
         toolbar_field_border_focus: "#3daee9",
         toolbar_field_focus: "#232629",
         toolbar_field_highlight: "#3daee9",
